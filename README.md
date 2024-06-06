@@ -1,3 +1,4 @@
+![Laravel best practices](/images/logo1.png?raw=true)
 # Digital Tailor Agency - Coding Practices Repository
 
 Welcome to the Digital Tailor Agency's Coding Practices Repository. This repository is dedicated to documenting and standardizing our coding practices across various programming languages and frameworks. Our goal is to ensure consistency, maintain high-quality code, and facilitate seamless collaboration among our in-house developers, new hires, and freelancers.
