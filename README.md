@@ -1,4 +1,5 @@
-![Laravel best practices](/images/logo1.png?raw=true){:width="200px"}
+<img src="/images/logo1.png?raw=true" alt="Laravel best practices" width="200">
+
 
 # Digital Tailor Agency - Coding Practices Repository
 
