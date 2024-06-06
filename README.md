@@ -1,6 +1,15 @@
-<div style="text-align:center;">
-    <img src="/images/logo1.png?raw=true" alt="Laravel best practices" width="200">
+<style>
+    .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+</style>
+<div class="center">
+    ![Laravel best practices](/images/logo1.png?raw=true)
 </div>
+
 
 
 
