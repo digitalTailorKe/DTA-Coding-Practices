@@ -1,4 +1,4 @@
-<img src="/images/logo1.png?raw=true" alt="Laravel best practices" width="200">
+<img src="/images/logo1.png?raw=true" alt="Laravel best practices" width="200" style="display: block; margin: 0 auto;">
 
 
 # Digital Tailor Agency - Coding Practices Repository
