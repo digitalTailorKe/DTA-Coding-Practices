@@ -22,9 +22,9 @@ The primary purpose of this repository is to serve as a comprehensive guide for 
 This repository is organized by programming languages and frameworks. Each section contains a dedicated README file detailing the best practices for that particular technology. For instance, you will find guidelines for:
 
 - Laravel
-- JavaScript
-- Python
-- [Add other languages/frameworks as necessary]
+- Vue
+- Java
+- etc
 
 ## How to Use This Repository
 
