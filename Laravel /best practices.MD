@@ -1,9 +1,3 @@
-
-
-//You might also want to check out the [real-world Laravel example application](https://github.com/alexeymezenin/laravel-realworld-example-app) and [Eloquent SQL reference](https://github.com/alexeymezenin/eloquent-sql-reference)
-
-
-
 ## Contents
 
 [Single responsibility principle](#single-responsibility-principle)
@@ -742,3 +736,6 @@ Use modern PHP syntax where possible, but don't forget about readability.
 Avoid using View Composers and similar tools unless you really know what you're doing. In most cases, there is a better way to solve the problem.
 
 [🔝 Back to contents](#contents)
+
+
+You might also want to check out the [real-world Laravel example application](https://github.com/alexeymezenin/laravel-realworld-example-app) and [Eloquent SQL reference](https://github.com/alexeymezenin/eloquent-sql-reference)
